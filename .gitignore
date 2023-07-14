@@ -1,0 +1,5 @@
+node_modules/*
+readliene-sync/*
+package.json
+package-lock.json
+tempCodeRunnerFile.js
